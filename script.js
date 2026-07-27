@@ -5,7 +5,7 @@ const input = document.getElementById("userInput");
 const result = document.getElementById("result");
 
 
-const TOKEN = ""YOUR_HUGGINGFACE_API_TOKEN"";
+const TOKEN = "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";
 
 const API_URL = "https://router.huggingface.co/v1/chat/completions";
 
